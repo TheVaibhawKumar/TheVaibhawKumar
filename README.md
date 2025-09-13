@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my GitHub profile! 👋
 
-<!--
-**TheVaibhawKumar/TheVaibhawKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Vaibhaw Kumar**, passionate about programming and open-source!
 
-Here are some ideas to get you started:
+📍 Based in Punjab  
+🌐 [My Website](https://www.vaibhawkumarparashar.in)  
+📸 [Instagram](https://www.instagram.com/itsvaibhaw)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies & Tools  
+- HTML, CSS, JavaScript  
+- WordPress, PHP, React  
+- Git, GitHub, VSCode
+
+## 📈 GitHub Stats
+![Vaibhaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVaibhawKumar&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- Email: vaibhaw@example.com  
+- LinkedIn: [linkedin.com/in/vaibhaw](https://linkedin.com/in/vaibhaw)
